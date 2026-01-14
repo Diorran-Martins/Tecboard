@@ -26,10 +26,9 @@
     
     }
 h1{
-        color: #FFFFFF;
+        font-size: 80px;
         font-family:("Unbounded",sans-serif);
         font-weight: bold;
-        font-size: 64px;
         text-align: center;
         margin-top: 60px ;
         
