@@ -1,10 +1,10 @@
 /*Definição de fonte*/
 @font-face {
-    font-family: Unbounded;
-    src: url("../css/fontes/Unbounded-Bold.ttf")
-    format("truetype");
+
+    font-family:(Poppins, sans-serif);
+    src: url("../Fonte/Poppins-Bold.ttf");
     font-weight: 700;
-    font-style: normal;
+
 }
 @font-face {
     font-family: "Poppins";
@@ -20,13 +20,14 @@
 }
 /*Estilo Desktop*/
  body {
-        background-color: white;
+        background-color: black;
         color: black;
         
     
     }
 h1{
         font-size: 80px;
+        color: white;
         font-family:("Unbounded",sans-serif);
         font-weight: bold;
         text-align: center;
